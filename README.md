@@ -1,5 +1,9 @@
 # SWDC LOG
 
+## メモ  
+
+* [ICC](icc.md)  
+
 ## What  
 
 SWDC (SEGA WORLD DRIVERS CHAMPIONSHIP) をプレイした時に考えた事  
