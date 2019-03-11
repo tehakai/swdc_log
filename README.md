@@ -2,7 +2,7 @@
 
 ## メモ  
 
-* [ICC](icc.md)  
+* [ICC (GT300)](icc_300.md)  
 
 ## What  
 
