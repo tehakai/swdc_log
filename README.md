@@ -5,6 +5,7 @@
 * [ICC (GT300)](icc_300.md)  
 * [ノーザン (GT300)](northern_300.md)  
 * [レイク (GT300)](lake_300.md)  
+* [84 (GT300)](84_300.md)
 
 ## What  
 
