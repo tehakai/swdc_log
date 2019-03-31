@@ -7,6 +7,7 @@
 * [レイク (GT300)](lake_300.md)  
 * [84 (GT300)](84_300.md)  
 * [SSW (GT300)](ssw_300.md)  
+* [ハマキタ (GT300)](hamakita_300.md)  
 
 ## What  
 
