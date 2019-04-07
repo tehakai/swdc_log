@@ -33,7 +33,7 @@ SWDC (SEGA WORLD DRIVERS CHAMPIONSHIP) をプレイした時に考えた事
 * ICC を走った  
 * 今季の自己ベストを更新  
 
-## ICC
+### ICC
 * [コースメモ](icc_300.md) 2セク最初の左ヘアピンの解説が違う箇所がある。  
 [100]通過後のセクターゲートでブレーキし[50] 通過でブレーキを抜くのが正しい。  
 → Issue: [#51](https://github.com/tehakai/swdc_log/issues/51)  
